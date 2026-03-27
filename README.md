@@ -116,7 +116,7 @@ Me chamo Ricardo Júnior, tenho 23 anos e sou natural do Rio de Janeiro. Atualme
   align="left" 
   alt="Tecnologias" 
   height="200" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jrr17jrr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jrr17jrr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&v=1" 
 />
 
 
