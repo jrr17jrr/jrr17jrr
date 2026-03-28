@@ -1,6 +1,6 @@
 # Ricardo Junior
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor`**
 
 Ricardo Júnior, 23 anos — estudante de Engenharia de Software com foco em desenvolvimento web, em constante evolução e em busca de oportunidade na área de tecnologia.
 <div> 
