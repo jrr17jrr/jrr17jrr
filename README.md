@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Ricardo Júnior, tenho 23 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Engenharia de Software. Sou apaixonado por tecnologia e focado na criação de sites, lojas online e soluções digitais que ajudam empresas a crescer no ambiente online.
+Ricardo Júnior, 23 anos — estudante de Engenharia de Software com foco em desenvolvimento web, em constante evolução e em busca de oportunidade na área de tecnologia.
 <div> 
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
