@@ -122,3 +122,12 @@ Ricardo Júnior, 23 anos, carioca — estudante de Engenharia de Software com fo
 
 </p>
 </div>
+
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jrr17jrr&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
